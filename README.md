@@ -119,4 +119,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact
 
-For questions or feedback, please contact [vivekanandojha09\@gmail.com]
+For questions or feedback, please contact [vivekanandojha09\@gmail.com, demonslayerash@gmail.com]
