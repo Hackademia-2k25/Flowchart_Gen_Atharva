@@ -1,0 +1,14 @@
+digraph {
+	start [label=Start shape=ellipse]
+	step1 [label="Load data from database" shape=box]
+	step2 [label="Preprocess the data" shape=box]
+	step3 [label="Is data clean?" shape=box]
+	step4 [label="Clean data" shape=box]
+	end [label=End shape=ellipse]
+	start -> step1 [label=""]
+	step1 -> step2 [label=""]
+	step2 -> step3 [label=""]
+	step3 -> step4 [label=No]
+	step3 -> end [label=Yes]
+	step4 -> end [label=""]
+}
